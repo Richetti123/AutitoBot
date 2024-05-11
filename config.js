@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["51966254634", 'Richetti123', true], //MichiBot
 ["56941827124", 'Geripium', true], //MichiBot
-["56941827124"], 
+["56953041634"], 
 ["56941827124"],
 ["56941827124"],
 ["56941827124"],
@@ -116,9 +116,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593968263524", 'MichiBot', 1], 
-["5492266466080", 'MichiBot', 1],  
-["5521989092076", 'MichiBot', 1]]
+["593968263524", 'AutitoBot', 1], 
+["5492266466080", 'AutitoBot', 1],  
+["5521989092076", 'AutitoBot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -126,8 +126,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "MichiBot"
-global.author = "Richetti y GeriDzn"
+global.packname = "AutitoBot"
+global.author = "AutitoBot"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -161,8 +161,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "Richetti y GeriDzn"
-global.igfg = "MichiBot"
+global.wm = "AutitoBot"
+global.igfg = "AutitoBot"
 global.nomorown = "56941827124"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
